@@ -1,0 +1,89 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0" version="29.6.6">
+  <diagram name="Page-1" id="7yl6FoQVQ1YT107S_32I">
+    <mxGraphModel dx="3541" dy="1905" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ZUj22Poo5WALfulCWifB-10" edge="1" parent="1" source="l4fp3ZwXn6bARAOyg3qx-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" target="ZUj22Poo5WALfulCWifB-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l4fp3ZwXn6bARAOyg3qx-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Participatory Events" vertex="1">
+          <mxGeometry height="60" width="162" x="-462" y="-7" as="geometry" />
+        </mxCell>
+        <mxCell id="ZUj22Poo5WALfulCWifB-11" edge="1" parent="1" source="ZUj22Poo5WALfulCWifB-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" target="ZUj22Poo5WALfulCWifB-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZUj22Poo5WALfulCWifB-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Social Media Content" vertex="1">
+          <mxGeometry height="60" width="162" x="-181" y="-7" as="geometry" />
+        </mxCell>
+        <mxCell id="ZUj22Poo5WALfulCWifB-14" edge="1" parent="1" source="ZUj22Poo5WALfulCWifB-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" target="ZUj22Poo5WALfulCWifB-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZUj22Poo5WALfulCWifB-15" edge="1" parent="1" source="ZUj22Poo5WALfulCWifB-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" target="ZUj22Poo5WALfulCWifB-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZUj22Poo5WALfulCWifB-16" edge="1" parent="1" source="ZUj22Poo5WALfulCWifB-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="ZUj22Poo5WALfulCWifB-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-236" y="432" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZUj22Poo5WALfulCWifB-18" edge="1" parent="1" source="ZUj22Poo5WALfulCWifB-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="ZUj22Poo5WALfulCWifB-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZUj22Poo5WALfulCWifB-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Skool Community" vertex="1">
+          <mxGeometry height="60" width="162" x="-317" y="177" as="geometry" />
+        </mxCell>
+        <mxCell id="ZUj22Poo5WALfulCWifB-13" edge="1" parent="1" source="ZUj22Poo5WALfulCWifB-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="ZUj22Poo5WALfulCWifB-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZUj22Poo5WALfulCWifB-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Social Media" vertex="1">
+          <mxGeometry height="60" width="162" x="-213" y="301" as="geometry" />
+        </mxCell>
+        <mxCell id="ZUj22Poo5WALfulCWifB-9" edge="1" parent="1" source="ZUj22Poo5WALfulCWifB-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="l4fp3ZwXn6bARAOyg3qx-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZUj22Poo5WALfulCWifB-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Event Planning" vertex="1">
+          <mxGeometry height="60" width="162" x="-426" y="301" as="geometry" />
+        </mxCell>
+        <mxCell id="ZUj22Poo5WALfulCWifB-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;h1&gt;Courses&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="49" width="309" x="-828" y="303" as="geometry" />
+        </mxCell>
+        <mxCell id="ZUj22Poo5WALfulCWifB-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;h1&gt;Online Community&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="49" width="309" x="-689" y="182.5" as="geometry" />
+        </mxCell>
+        <mxCell id="ZUj22Poo5WALfulCWifB-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;h1&gt;Projects&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="49" width="309" x="-836" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="ZUj22Poo5WALfulCWifB-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Switching Processes" vertex="1">
+          <mxGeometry height="60" width="162" x="-213" y="402" as="geometry" />
+        </mxCell>
+        <mxCell id="ZUj22Poo5WALfulCWifB-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Building the app" vertex="1">
+          <mxGeometry height="60" width="162" x="-428" y="402" as="geometry" />
+        </mxCell>
+        <mxCell id="ZUj22Poo5WALfulCWifB-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Clarify TOF language/value proposition" vertex="1">
+          <mxGeometry height="60" width="162" x="226" y="47" as="geometry" />
+        </mxCell>
+        <mxCell id="ZUj22Poo5WALfulCWifB-21" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Clarify rules" vertex="1">
+          <mxGeometry height="60" width="162" x="226" y="122.5" as="geometry" />
+        </mxCell>
+        <mxCell id="ZUj22Poo5WALfulCWifB-22" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Nothing overtly political or spiritual" vertex="1">
+          <mxGeometry height="60" width="162" x="402" y="47" as="geometry" />
+        </mxCell>
+        <mxCell id="ZUj22Poo5WALfulCWifB-23" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div&gt;Replace money and governments with human connections for everything you need.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Here&#39;s how to join:&lt;/div&gt;&lt;div&gt;1. Take a breath&lt;/div&gt;&lt;div&gt;2. Do something you&#39;re proud of&lt;/div&gt;&lt;div&gt;3. Repeat&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Laughter, play, joy, creation and gratitude are all part of being human. Even pain can be magical when we feel it fully.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;We&#39;re starting by doing things we&#39;re proud of in the present moment that make living a joy for ourselves and those around us today. We believe that by peacefully building alternative systems to the status quo&amp;nbsp;&lt;/div&gt;&lt;div&gt;Our goal is to ensure all humans can thrive without depending on governments or private companies.&amp;nbsp;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="301" width="360" x="137" y="342" as="geometry" />
+        </mxCell>
+        <mxCell id="ZUj22Poo5WALfulCWifB-24" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Webinar-style video to make people believe that it truly is possible" vertex="1">
+          <mxGeometry height="60" width="162" x="516" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="ZUj22Poo5WALfulCWifB-25" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Reveal things in layers so we don&#39;t start with the most far-out beliefs" vertex="1">
+          <mxGeometry height="60" width="162" x="516" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="ZUj22Poo5WALfulCWifB-26" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Start with a &quot;Proud of&quot; channel" vertex="1">
+          <mxGeometry height="60" width="162" x="705" y="270" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
