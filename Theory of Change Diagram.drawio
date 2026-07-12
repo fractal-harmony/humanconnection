@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0" version="29.6.4">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0">
   <diagram name="Page-1" id="4qQuQAqoPxNVGYq8f3uU">
-    <mxGraphModel dx="754" dy="1809" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="-1100" dy="756" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -21,7 +21,7 @@
             <mxPoint x="2620" y="491.57142857142867" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IY58Hyuxto51kOQ-luWn-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;spacingLeft=4;spacingRight=4;spacingTop=4;spacingBottom=4;" value="Change beliefs" vertex="1">
+        <mxCell id="IY58Hyuxto51kOQ-luWn-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;spacingLeft=4;spacingRight=4;spacingTop=4;spacingBottom=4;" value="Change associations" vertex="1">
           <mxGeometry height="37.5" width="160" x="2540" y="571" as="geometry" />
         </mxCell>
         <mxCell id="IY58Hyuxto51kOQ-luWn-11" edge="1" parent="1" source="IY58Hyuxto51kOQ-luWn-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" target="IY58Hyuxto51kOQ-luWn-6">
