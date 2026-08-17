@@ -1,0 +1,88 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="k-g7IS2k2P_kWXhrjlyz">
+    <mxGraphModel dx="2264" dy="1457" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="xz6woUW0IECv-swVDToL-6" edge="1" parent="1" source="xz6woUW0IECv-swVDToL-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="xz6woUW0IECv-swVDToL-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xz6woUW0IECv-swVDToL-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Instagram Reels" vertex="1">
+          <mxGeometry height="60" width="153" x="188" y="265" as="geometry" />
+        </mxCell>
+        <mxCell id="xz6woUW0IECv-swVDToL-3" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" value="I&#39;m worried about the world, but unsure what to do" vertex="1">
+          <mxGeometry height="147" width="222" x="-202" y="212" as="geometry" />
+        </mxCell>
+        <mxCell id="xz6woUW0IECv-swVDToL-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Events" vertex="1">
+          <mxGeometry height="60" width="153" x="74" y="657" as="geometry" />
+        </mxCell>
+        <mxCell id="xz6woUW0IECv-swVDToL-9" edge="1" parent="1" source="xz6woUW0IECv-swVDToL-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" target="xz6woUW0IECv-swVDToL-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xz6woUW0IECv-swVDToL-13" edge="1" parent="1" source="xz6woUW0IECv-swVDToL-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="xz6woUW0IECv-swVDToL-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xz6woUW0IECv-swVDToL-15" edge="1" parent="1" source="xz6woUW0IECv-swVDToL-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="xz6woUW0IECv-swVDToL-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xz6woUW0IECv-swVDToL-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Skool Community" vertex="1">
+          <mxGeometry height="60" width="153" x="188" y="426" as="geometry" />
+        </mxCell>
+        <mxCell id="xz6woUW0IECv-swVDToL-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Get buy-in (webinar style video)" vertex="1">
+          <mxGeometry height="60" width="153" x="492" y="426" as="geometry" />
+        </mxCell>
+        <mxCell id="xz6woUW0IECv-swVDToL-10" edge="1" parent="1" source="xz6woUW0IECv-swVDToL-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="xz6woUW0IECv-swVDToL-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xz6woUW0IECv-swVDToL-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="YouTube" vertex="1">
+          <mxGeometry height="60" width="153" x="492" y="265" as="geometry" />
+        </mxCell>
+        <mxCell id="xz6woUW0IECv-swVDToL-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Things we&#39;re proud of" vertex="1">
+          <mxGeometry height="60" width="153" x="4" y="531" as="geometry" />
+        </mxCell>
+        <mxCell id="xz6woUW0IECv-swVDToL-14" edge="1" parent="1" source="xz6woUW0IECv-swVDToL-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="xz6woUW0IECv-swVDToL-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xz6woUW0IECv-swVDToL-16" edge="1" parent="1" source="xz6woUW0IECv-swVDToL-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="xz6woUW0IECv-swVDToL-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xz6woUW0IECv-swVDToL-18" edge="1" parent="1" source="xz6woUW0IECv-swVDToL-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="xz6woUW0IECv-swVDToL-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xz6woUW0IECv-swVDToL-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Courses" vertex="1">
+          <mxGeometry height="60" width="153" x="188" y="531" as="geometry" />
+        </mxCell>
+        <mxCell id="xz6woUW0IECv-swVDToL-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="New systems" vertex="1">
+          <mxGeometry height="60" width="153" x="310" y="657" as="geometry" />
+        </mxCell>
+        <mxCell id="xz6woUW0IECv-swVDToL-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="YouTube" vertex="1">
+          <mxGeometry height="60" width="153" x="218" y="1500" as="geometry" />
+        </mxCell>
+        <mxCell id="xz6woUW0IECv-swVDToL-20" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="What&#39;s the ONE thing?" vertex="1">
+          <mxGeometry height="30" width="97" x="-52" y="1521" as="geometry" />
+        </mxCell>
+        <mxCell id="CjTlteGXqAJ4KuY0W-ir-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Sense of meaning" vertex="1">
+          <mxGeometry height="60" width="153" x="1261" y="1291" as="geometry" />
+        </mxCell>
+        <mxCell id="CjTlteGXqAJ4KuY0W-ir-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Jobs to be done" vertex="1">
+          <mxGeometry height="30" width="106" x="1281" y="1242" as="geometry" />
+        </mxCell>
+        <mxCell id="CjTlteGXqAJ4KuY0W-ir-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Religion" vertex="1">
+          <mxGeometry height="60" width="153" x="911" y="1391" as="geometry" />
+        </mxCell>
+        <mxCell id="CjTlteGXqAJ4KuY0W-ir-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Activism" vertex="1">
+          <mxGeometry height="60" width="153" x="1086" y="1391" as="geometry" />
+        </mxCell>
+        <mxCell id="CjTlteGXqAJ4KuY0W-ir-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Identification with meaning of content" vertex="1">
+          <mxGeometry height="60" width="153" x="1261" y="1391" as="geometry" />
+        </mxCell>
+        <mxCell id="CjTlteGXqAJ4KuY0W-ir-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Personal advancement" vertex="1">
+          <mxGeometry height="60" width="153" x="1436" y="1391" as="geometry" />
+        </mxCell>
+        <mxCell id="CjTlteGXqAJ4KuY0W-ir-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Family" vertex="1">
+          <mxGeometry height="60" width="153" x="1611" y="1391" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
