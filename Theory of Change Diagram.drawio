@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0">
   <diagram name="Page-1" id="4qQuQAqoPxNVGYq8f3uU">
-    <mxGraphModel dx="-886" dy="1517" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="-1362" dy="1166" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -767,7 +767,7 @@
         <mxCell id="9pI-jRh9yoKnxfV0BXcw-200" edge="1" parent="9pI-jRh9yoKnxfV0BXcw-179" source="9pI-jRh9yoKnxfV0BXcw-201" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=light-dark(#1BA1E2,#006EAF);fontStyle=0;startSize=8;endSize=8;fillColor=#1ba1e2;strokeColor=#006EAF;" target="9pI-jRh9yoKnxfV0BXcw-196">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9pI-jRh9yoKnxfV0BXcw-201" parent="9pI-jRh9yoKnxfV0BXcw-179" style="rounded=1;whiteSpace=wrap;html=1;spacingLeft=4;spacingRight=4;spacingTop=0;spacingBottom=3;fontFamily=Helvetica;fontSize=12;fontColor=#ffffff;fontStyle=0;align=center;verticalAlign=middle;fillColor=#1ba1e2;strokeColor=#006EAF;" value="Hypothesis" vertex="1">
+        <mxCell id="9pI-jRh9yoKnxfV0BXcw-201" parent="9pI-jRh9yoKnxfV0BXcw-179" style="rounded=1;whiteSpace=wrap;html=1;spacingLeft=4;spacingRight=4;spacingTop=0;spacingBottom=3;fontFamily=Helvetica;fontSize=12;fontColor=#ffffff;fontStyle=0;align=center;verticalAlign=middle;fillColor=#1ba1e2;strokeColor=#006EAF;" value="Hypotheses" vertex="1">
           <mxGeometry height="40" width="120" x="43" y="262" as="geometry" />
         </mxCell>
         <mxCell id="9pI-jRh9yoKnxfV0BXcw-180" parent="1" style="swimlane;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" value="Energy" vertex="1">
@@ -827,8 +827,8 @@
             <mxPoint y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9pI-jRh9yoKnxfV0BXcw-202" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;spacingLeft=10;spacingRight=10;" value="&lt;div align=&quot;left&quot;&gt;&lt;b&gt;The Organisation of Human Energy&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;The entity* which most effectively organises human energy (and energy in general) for the purpose of increasing it&#39;s rate of organisation will dominate. Potentially an entity could reach a state of perfection from which no other process could surpass it.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;If this were a collective entity concerned with the wellbeing of all constituents then this would trend towards a utopia. Private power could lead towards a dystopia or triggering of a natural process i.e. climate change that will re-organise/stunt humanity.&lt;/div&gt;" vertex="1">
-          <mxGeometry height="235" width="338" x="8216" y="270" as="geometry" />
+        <mxCell id="9pI-jRh9yoKnxfV0BXcw-202" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;spacingLeft=10;spacingRight=10;" value="&lt;div align=&quot;left&quot;&gt;&lt;b&gt;The Organisation of Human Energy&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;The entity* which most effectively organises human energy (and energy in general) for the purpose of increasing it&#39;s rate of organisation will dominate. Potentially an entity could reach a state of perfection from which no other process could surpass it.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;If this were a collective entity concerned with the wellbeing of all constituents then this would trend towards a utopia. Private power could lead towards a dystopia or triggering of a natural process i.e. climate change that will re-organise/stunt humanity.&lt;br&gt;&lt;br&gt;*This could include any iterative process, be it physical laws, human society or code-based.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="234" width="367" x="8216" y="273" as="geometry" />
         </mxCell>
         <mxCell id="9pI-jRh9yoKnxfV0BXcw-206" edge="1" parent="1" source="9pI-jRh9yoKnxfV0BXcw-205" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0;startSize=8;endSize=8;" target="_OGtMIw9NQYz6fZ9VORp-78">
           <mxGeometry relative="1" as="geometry" />
@@ -844,6 +844,24 @@
         </mxCell>
         <mxCell id="9pI-jRh9yoKnxfV0BXcw-207" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#BD7000;fillColor=#f0a30a;align=center;verticalAlign=middle;rounded=0;fontColor=#000000;" value="Human Energy" vertex="1">
           <mxGeometry height="30" width="107" x="7400" y="1651" as="geometry" />
+        </mxCell>
+        <mxCell id="Jy9MfU6YH4fa8VzquSR9-1" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Absolute" vertex="1">
+          <mxGeometry height="200" width="200" x="8974" y="561" as="geometry" />
+        </mxCell>
+        <mxCell id="Jy9MfU6YH4fa8VzquSR9-13" parent="Jy9MfU6YH4fa8VzquSR9-1" style="rounded=1;whiteSpace=wrap;html=1;" value="Seen, heard, felt, smelled and tasted." vertex="1">
+          <mxGeometry height="60" width="120" x="40" y="59" as="geometry" />
+        </mxCell>
+        <mxCell id="Jy9MfU6YH4fa8VzquSR9-17" parent="Jy9MfU6YH4fa8VzquSR9-1" style="rounded=1;whiteSpace=wrap;html=1;" value="Materialised" vertex="1">
+          <mxGeometry height="45" width="90" x="52" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="Jy9MfU6YH4fa8VzquSR9-2" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Conditioning" vertex="1">
+          <mxGeometry height="200" width="200" x="9212" y="561" as="geometry" />
+        </mxCell>
+        <mxCell id="Jy9MfU6YH4fa8VzquSR9-16" parent="Jy9MfU6YH4fa8VzquSR9-2" style="rounded=1;whiteSpace=wrap;html=1;" value="Conceptual Network" vertex="1">
+          <mxGeometry height="60" width="120" x="15" y="52" as="geometry" />
+        </mxCell>
+        <mxCell id="Jy9MfU6YH4fa8VzquSR9-3" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Material" vertex="1">
+          <mxGeometry height="200" width="200" x="9443" y="561" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
