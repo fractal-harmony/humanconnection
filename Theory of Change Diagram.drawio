@@ -926,7 +926,7 @@
             <mxPoint y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Jy9MfU6YH4fa8VzquSR9-48" edge="1" parent="1" source="Jy9MfU6YH4fa8VzquSR9-50" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0;startSize=8;endSize=8;" target="Jy9MfU6YH4fa8VzquSR9-59">
+        <mxCell id="Jy9MfU6YH4fa8VzquSR9-48" edge="1" parent="1" source="Jy9MfU6YH4fa8VzquSR9-50" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0;startSize=8;endSize=8;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" target="Jy9MfU6YH4fa8VzquSR9-59">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Jy9MfU6YH4fa8VzquSR9-49" connectable="0" parent="Jy9MfU6YH4fa8VzquSR9-48" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontFamily=Helvetica;fontColor=default;fontStyle=0;" value="&lt;div&gt;Conscious&lt;/div&gt;&lt;div&gt;Experience&lt;/div&gt;&lt;div&gt;Data&lt;/div&gt;" vertex="1">
@@ -935,20 +935,28 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Jy9MfU6YH4fa8VzquSR9-50" parent="1" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" value="Conscious Experience" vertex="1">
-          <mxGeometry height="200" width="200" x="9807" y="273" as="geometry" />
+          <mxGeometry height="200" width="200" x="9813" y="270" as="geometry" />
         </mxCell>
-        <mxCell id="Jy9MfU6YH4fa8VzquSR9-51" parent="Jy9MfU6YH4fa8VzquSR9-50" style="rounded=1;whiteSpace=wrap;html=1;spacingBottom=3;" value="Seen, heard, felt, smelled and tasted." vertex="1">
-          <mxGeometry height="60" width="120" x="40" y="47" as="geometry" />
+        <mxCell id="Jy9MfU6YH4fa8VzquSR9-51" parent="Jy9MfU6YH4fa8VzquSR9-50" style="rounded=1;whiteSpace=wrap;html=1;spacingBottom=3;" value="Seeing, hearing, tasting, feeling, smelling." vertex="1">
+          <mxGeometry height="40" width="138" x="31" y="38" as="geometry" />
+        </mxCell>
+        <mxCell id="Jy9MfU6YH4fa8VzquSR9-99" edge="1" parent="Jy9MfU6YH4fa8VzquSR9-50" source="Jy9MfU6YH4fa8VzquSR9-52" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0;startSize=8;endSize=8;" target="Jy9MfU6YH4fa8VzquSR9-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jy9MfU6YH4fa8VzquSR9-100" connectable="0" parent="Jy9MfU6YH4fa8VzquSR9-99" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontFamily=Helvetica;fontColor=default;fontStyle=0;" value="Objectification" vertex="1">
+          <mxGeometry relative="1" x="-0.1277" y="-2" as="geometry">
+            <mxPoint y="-4" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Jy9MfU6YH4fa8VzquSR9-52" parent="Jy9MfU6YH4fa8VzquSR9-50" style="rounded=1;whiteSpace=wrap;html=1;spacingBottom=3;" value="Thoughts" vertex="1">
-          <mxGeometry height="45" width="90" x="16" y="130" as="geometry" />
+          <mxGeometry height="45" width="90" x="15" y="137" as="geometry" />
         </mxCell>
         <mxCell id="Jy9MfU6YH4fa8VzquSR9-53" edge="1" parent="1" source="Jy9MfU6YH4fa8VzquSR9-59" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0;startSize=8;endSize=8;" target="Jy9MfU6YH4fa8VzquSR9-52">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Jy9MfU6YH4fa8VzquSR9-54" connectable="0" parent="Jy9MfU6YH4fa8VzquSR9-53" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontFamily=Helvetica;fontColor=default;fontStyle=0;" value="&lt;div&gt;Conscious&lt;/div&gt;&lt;div&gt;Experience&lt;/div&gt;&lt;div&gt;Interpretation&lt;/div&gt;" vertex="1">
           <mxGeometry relative="1" x="0.0376" y="-1" as="geometry">
-            <mxPoint x="-2" y="-10" as="offset" />
+            <mxPoint x="-1" y="-13" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Jy9MfU6YH4fa8VzquSR9-55" edge="1" parent="1" source="Jy9MfU6YH4fa8VzquSR9-60" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0;startSize=8;endSize=8;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" target="Jy9MfU6YH4fa8VzquSR9-65">
@@ -994,17 +1002,17 @@
         <mxCell id="Jy9MfU6YH4fa8VzquSR9-63" edge="1" parent="1" source="Jy9MfU6YH4fa8VzquSR9-65" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0;startSize=8;endSize=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="Jy9MfU6YH4fa8VzquSR9-60">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Jy9MfU6YH4fa8VzquSR9-68" connectable="0" parent="Jy9MfU6YH4fa8VzquSR9-63" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontFamily=Helvetica;fontColor=default;fontStyle=0;" value="&lt;div&gt;Physical&lt;/div&gt;&lt;div&gt;Impact&lt;/div&gt;" vertex="1">
+        <mxCell id="Jy9MfU6YH4fa8VzquSR9-68" connectable="0" parent="Jy9MfU6YH4fa8VzquSR9-63" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontFamily=Helvetica;fontColor=default;fontStyle=0;" value="&lt;div&gt;Physical&lt;/div&gt;&lt;div&gt;Stimuli&lt;/div&gt;" vertex="1">
           <mxGeometry relative="1" x="-0.4599" y="-1" as="geometry">
             <mxPoint x="1" y="-19" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Jy9MfU6YH4fa8VzquSR9-64" edge="1" parent="1" source="Jy9MfU6YH4fa8VzquSR9-60" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0;startSize=8;endSize=8;exitX=0;exitY=0;exitDx=0;exitDy=0;" target="Jy9MfU6YH4fa8VzquSR9-51">
+        <mxCell id="Jy9MfU6YH4fa8VzquSR9-64" edge="1" parent="1" source="Jy9MfU6YH4fa8VzquSR9-60" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0;startSize=8;endSize=8;exitX=0;exitY=0;exitDx=0;exitDy=0;" target="Jy9MfU6YH4fa8VzquSR9-51">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Jy9MfU6YH4fa8VzquSR9-67" connectable="0" parent="Jy9MfU6YH4fa8VzquSR9-64" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontFamily=Helvetica;fontColor=default;fontStyle=0;" value="Sense Data&lt;br&gt;Interpretation" vertex="1">
+        <mxCell id="Jy9MfU6YH4fa8VzquSR9-67" connectable="0" parent="Jy9MfU6YH4fa8VzquSR9-64" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontFamily=Helvetica;fontColor=default;fontStyle=0;" value="&lt;div&gt;Sense&lt;/div&gt;&lt;div&gt;Perception&lt;/div&gt;" vertex="1">
           <mxGeometry relative="1" x="-0.2049" as="geometry">
-            <mxPoint x="-5" y="-13" as="offset" />
+            <mxPoint x="-2" y="-6" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Jy9MfU6YH4fa8VzquSR9-97" edge="1" parent="1" source="Jy9MfU6YH4fa8VzquSR9-65" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0;startSize=8;endSize=8;" target="Jy9MfU6YH4fa8VzquSR9-60">
@@ -1019,6 +1027,109 @@
           <mxGeometry height="200" width="200" x="10072" y="271" as="geometry" />
         </mxCell>
         <mxCell id="Jy9MfU6YH4fa8VzquSR9-66" parent="Jy9MfU6YH4fa8VzquSR9-65" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;spacingBottom=4;" value="Time and space governed by cause and effect" vertex="1">
+          <mxGeometry height="60" width="120" x="40" y="78" as="geometry" />
+        </mxCell>
+        <mxCell id="Jy9MfU6YH4fa8VzquSR9-101" edge="1" parent="1" source="Jy9MfU6YH4fa8VzquSR9-103" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0;startSize=8;endSize=8;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" target="Jy9MfU6YH4fa8VzquSR9-115">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jy9MfU6YH4fa8VzquSR9-102" connectable="0" parent="Jy9MfU6YH4fa8VzquSR9-101" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontFamily=Helvetica;fontColor=default;fontStyle=0;" value="&lt;div&gt;Conscious&lt;/div&gt;&lt;div&gt;Experience&lt;/div&gt;&lt;div&gt;Data&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.0195" y="1" as="geometry">
+            <mxPoint x="-7" y="-21" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Jy9MfU6YH4fa8VzquSR9-103" parent="1" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" value="Conscious Experience" vertex="1">
+          <mxGeometry height="200" width="200" x="10803" y="277" as="geometry" />
+        </mxCell>
+        <mxCell id="Jy9MfU6YH4fa8VzquSR9-104" parent="Jy9MfU6YH4fa8VzquSR9-103" style="rounded=1;whiteSpace=wrap;html=1;spacingBottom=3;" value="Seeing, hearing, tasting, feeling, smelling." vertex="1">
+          <mxGeometry height="40" width="138" x="31" y="38" as="geometry" />
+        </mxCell>
+        <mxCell id="Jy9MfU6YH4fa8VzquSR9-105" edge="1" parent="Jy9MfU6YH4fa8VzquSR9-103" source="Jy9MfU6YH4fa8VzquSR9-107" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0;startSize=8;endSize=8;" target="Jy9MfU6YH4fa8VzquSR9-104">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jy9MfU6YH4fa8VzquSR9-106" connectable="0" parent="Jy9MfU6YH4fa8VzquSR9-105" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontFamily=Helvetica;fontColor=default;fontStyle=0;" value="Objectification" vertex="1">
+          <mxGeometry relative="1" x="-0.1277" y="-2" as="geometry">
+            <mxPoint y="-4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Jy9MfU6YH4fa8VzquSR9-107" parent="Jy9MfU6YH4fa8VzquSR9-103" style="rounded=1;whiteSpace=wrap;html=1;spacingBottom=3;" value="Thoughts" vertex="1">
+          <mxGeometry height="45" width="90" x="93" y="138" as="geometry" />
+        </mxCell>
+        <mxCell id="Jy9MfU6YH4fa8VzquSR9-108" edge="1" parent="1" source="Jy9MfU6YH4fa8VzquSR9-115" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0;startSize=8;endSize=8;" target="Jy9MfU6YH4fa8VzquSR9-107">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jy9MfU6YH4fa8VzquSR9-109" connectable="0" parent="Jy9MfU6YH4fa8VzquSR9-108" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontFamily=Helvetica;fontColor=default;fontStyle=0;" value="&lt;div&gt;Conscious&lt;/div&gt;&lt;div&gt;Experience&lt;/div&gt;&lt;div&gt;Interpretation&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.0376" y="-1" as="geometry">
+            <mxPoint x="-1" y="-13" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Jy9MfU6YH4fa8VzquSR9-110" edge="1" parent="1" source="Jy9MfU6YH4fa8VzquSR9-116" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0;startSize=8;endSize=8;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" target="Jy9MfU6YH4fa8VzquSR9-126">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="10938.31" y="465.14" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Jy9MfU6YH4fa8VzquSR9-111" connectable="0" parent="Jy9MfU6YH4fa8VzquSR9-110" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontFamily=Helvetica;fontColor=default;fontStyle=0;" value="&lt;div&gt;Physical&lt;/div&gt;&lt;div&gt;Response&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.3002" y="1" as="geometry">
+            <mxPoint y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Jy9MfU6YH4fa8VzquSR9-112" parent="1" style="swimlane;whiteSpace=wrap;html=1;fillColor=none;" value="Subconscious Processes" vertex="1">
+          <mxGeometry height="217" width="456" x="10547" y="564" as="geometry">
+            <mxRectangle height="26" width="102" x="9212" y="562" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Jy9MfU6YH4fa8VzquSR9-113" edge="1" parent="Jy9MfU6YH4fa8VzquSR9-112" source="Jy9MfU6YH4fa8VzquSR9-115" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0;startSize=8;endSize=8;startArrow=classic;startFill=1;" target="Jy9MfU6YH4fa8VzquSR9-116">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jy9MfU6YH4fa8VzquSR9-114" connectable="0" parent="Jy9MfU6YH4fa8VzquSR9-113" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontFamily=Helvetica;fontColor=default;fontStyle=0;" value="&lt;span class=&quot;user-query-container&quot;&gt;&lt;span class=&quot;user-query-bubble-with-background ng-star-inserted&quot;&gt;&lt;span class=&quot;horizontal-container ng-star-inserted&quot;&gt;Biological-&lt;br&gt;Conceptual&lt;br&gt;Interface&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.116" y="-1" as="geometry">
+            <mxPoint x="-9" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Jy9MfU6YH4fa8VzquSR9-115" parent="Jy9MfU6YH4fa8VzquSR9-112" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;spacingBottom=4;" value="Associative Network" vertex="1">
+          <mxGeometry height="40" width="120" x="312" y="57" as="geometry" />
+        </mxCell>
+        <mxCell id="Jy9MfU6YH4fa8VzquSR9-116" parent="Jy9MfU6YH4fa8VzquSR9-112" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;spacingBottom=4;" value="Biological State" vertex="1">
+          <mxGeometry height="40" width="120" x="42" y="57" as="geometry" />
+        </mxCell>
+        <mxCell id="Jy9MfU6YH4fa8VzquSR9-117" edge="1" parent="Jy9MfU6YH4fa8VzquSR9-112" source="Jy9MfU6YH4fa8VzquSR9-119" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0;startSize=8;endSize=8;" target="Jy9MfU6YH4fa8VzquSR9-116">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jy9MfU6YH4fa8VzquSR9-118" connectable="0" parent="Jy9MfU6YH4fa8VzquSR9-117" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontFamily=Helvetica;fontColor=default;fontStyle=0;" value="Predisposition" vertex="1">
+          <mxGeometry relative="1" x="-0.329" as="geometry">
+            <mxPoint y="-5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Jy9MfU6YH4fa8VzquSR9-119" parent="Jy9MfU6YH4fa8VzquSR9-112" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;spacingBottom=4;" value="Genetics" vertex="1">
+          <mxGeometry height="40" width="120" x="42" y="152" as="geometry" />
+        </mxCell>
+        <mxCell id="Jy9MfU6YH4fa8VzquSR9-120" edge="1" parent="1" source="Jy9MfU6YH4fa8VzquSR9-126" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0;startSize=8;endSize=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="Jy9MfU6YH4fa8VzquSR9-116">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jy9MfU6YH4fa8VzquSR9-121" connectable="0" parent="Jy9MfU6YH4fa8VzquSR9-120" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontFamily=Helvetica;fontColor=default;fontStyle=0;" value="&lt;div&gt;Physical&lt;/div&gt;&lt;div&gt;Stimuli&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.4599" y="-1" as="geometry">
+            <mxPoint x="2" y="-13" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Jy9MfU6YH4fa8VzquSR9-122" edge="1" parent="1" source="Jy9MfU6YH4fa8VzquSR9-116" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0;startSize=8;endSize=8;exitX=1;exitY=0;exitDx=0;exitDy=0;" target="Jy9MfU6YH4fa8VzquSR9-104">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jy9MfU6YH4fa8VzquSR9-123" connectable="0" parent="Jy9MfU6YH4fa8VzquSR9-122" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontFamily=Helvetica;fontColor=default;fontStyle=0;" value="&lt;div&gt;Sense&lt;/div&gt;&lt;div&gt;Perception&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.2049" as="geometry">
+            <mxPoint x="-2" y="-6" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Jy9MfU6YH4fa8VzquSR9-124" edge="1" parent="1" source="Jy9MfU6YH4fa8VzquSR9-126" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0;startSize=8;endSize=8;" target="Jy9MfU6YH4fa8VzquSR9-116">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jy9MfU6YH4fa8VzquSR9-125" connectable="0" parent="Jy9MfU6YH4fa8VzquSR9-124" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontFamily=Helvetica;fontColor=default;fontStyle=0;" value="&lt;div&gt;Sense&lt;/div&gt;&lt;div&gt;Data&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.261" y="-2" as="geometry">
+            <mxPoint x="1" y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Jy9MfU6YH4fa8VzquSR9-126" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="External World" vertex="1">
+          <mxGeometry height="200" width="200" x="10547" y="277" as="geometry" />
+        </mxCell>
+        <mxCell id="Jy9MfU6YH4fa8VzquSR9-127" parent="Jy9MfU6YH4fa8VzquSR9-126" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;spacingBottom=4;" value="Time and space governed by cause and effect" vertex="1">
           <mxGeometry height="60" width="120" x="40" y="78" as="geometry" />
         </mxCell>
       </root>
